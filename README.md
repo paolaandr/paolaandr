@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="r" width="500" height="400"/>
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="r" width="700" height="400"/>
 
  
 <h1 align="center"> 🚀 Bem vindo ao meu Github: </h1>

@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🛠 Ferramentas e Tecnologias
+<div align="center">
 ![Git](https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

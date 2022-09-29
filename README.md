@@ -6,11 +6,6 @@
 - 👀 I’m interested in Fullstack Developer ...
 - 🌱 I’m currently learning Html, Css, javascript, React ...
 - 📫 How to reach me paolam.andrad@gmail.com 
- 
-<!---
-paolandrad/paolandrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ## 🛠 Ferramentas e Tecnologias
 ![Git](https://img.shields.io/badge/git%20-%23F05556.svg?&style=for-the-badge&logo=git&logoColor=white)
